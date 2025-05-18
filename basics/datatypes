@@ -1,0 +1,20 @@
+let name = "abhijeet"
+let age = 25
+let isloggedin = true
+let status = null
+ 
+/*
+
+string --> can use single as well as double quotes 
+number --> 2 power 52 
+boolean
+null --> standalone value 
+undefined 
+symbol --> unique
+object
+
+*/
+
+console.log(typeof null)  // object
+console.log(typeof undefined) // undefined
+console.log(typeof isloggedin) // boolean
